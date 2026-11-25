@@ -83,4 +83,4 @@ During the development of this project, the Artificial Intelligence tool **Googl
 Specifically, AI assistance supported:
 * Diagnosing and resolving the cross-scene XR Interaction Toolkit controller freeze (`ControladorMenuPrincipal.cs` and `GestorMinijuegoCristales.cs`).
 * Evaluating comfort-oriented VR locomotion alternatives (selecting teleportation over continuous movement with tunneling vignette to prevent motion sickness).
-* Standardizing C# inline comments into English XML documentation format (`/// <summary>`), configuring Git LFS for `.glb` assets, and structuring this `README.md`.
+* Standardizing C# inline comments into English XML documentation.
